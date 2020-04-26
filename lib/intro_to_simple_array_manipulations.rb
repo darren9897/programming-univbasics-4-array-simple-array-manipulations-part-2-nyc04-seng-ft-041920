@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def using_concat(array1, array2)
   im = array1
   upset = array2
@@ -38,3 +39,13 @@ end
 
 
 
+=======
+def using_concact(array1, array2)
+  
+  a = array1
+  b = array2
+  
+  return a.concact(b)
+
+end
+>>>>>>> ec6776955dd3efb681fb42f82f741609666a94f8
